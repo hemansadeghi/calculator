@@ -12,7 +12,3 @@ This is a simple calculator app built with the Flutter framework. It supports ba
 
 To run this project on your system, follow the steps below:
 
-1. **Clone the Project**:
-   First, clone the repository:
-   ```bash
-   https://github.com/hemansadeghi/calculator.git
